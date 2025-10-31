@@ -30255,7 +30255,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56999,16843,,"Institute of Contemporary Art, Boston",,Variant
 57000,49110,,"Ateliers Guillard, Gourdon et Cie.",,Preferred Name
 57002,297,,Gemini Ltd.,,Variant
-61817,52697,Tyler,,,Original Name
 57003,49112,Ricordi,"Ricordi, Giovanni",,Preferred Name
 57004,49113,Kellogg,"Kellogg, Elizabeth",,Preferred Name
 57005,49114,,Galerie Karsten Greve,,Preferred Name
@@ -30348,7 +30347,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57158,49239,Hepburn-Stuart-Forbes-Trefusis,"Hepburn-Stuart-Forbes-Trefusis, Charles John Robert, 21st baron Clinton",,Preferred Name
 57159,49239,Trefusis,"Trefusis, Charles John Robert",,Variant
 57160,49240,Bowles-Lyon,"Bowles-Lyon, Fenella Hepburn-Stuart-Forbes-Trefusis",,Preferred Name
-61970,4934,González,,,Variant
 57161,49240,Hepburn-Stuart-Forbes-Trefusis,"Hepburn-Stuart-Forbes-Trefusis, Fenella Hon.",,Maiden Name
 57162,49240,Bowles-Lyon,"Bowles-Lyon, John Herbert Mrs.",,Married Name
 57163,49241,Somervell,"Somervell, Diana Cinderella Mildred Bowes-Lyon",,Preferred Name
@@ -33498,6 +33496,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61812,52693,Wailly,"Wailly, Charles de",,Preferred Name
 61815,52696,Calm,"Calm, Jonathan",,Preferred Name
 61816,52697,Scott,"Scott, Dread",,Preferred Name
+61817,52697,Tyler,,,Original Name
 61818,52698,Wood,"Wood, Tom",,Preferred Name
 61819,52698,Wood,"Wood, Tom",,Variant
 61820,52699,Moillon,"Moillon, Louise",,Preferred Name
@@ -33596,6 +33595,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61967,52814,Strider,"Strider, Marjorie",,Preferred Name
 61968,52815,,Madison-Morgan Cultural Center,,Preferred Name
 61969,52816,Drake,"Drake, David",,Preferred Name
+61970,4934,González,,,Variant
 61971,33234,Shermer,"Shermer, Frederika",,Variant
 61972,33234,Frederika,"Frederika, Fritzi",,Variant
 61973,52817,Plowden,"Plowden, David",,Preferred Name
