@@ -25128,6 +25128,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50379,,"Dumhlan, Barbara",Barbara Dumhlan,Dumhlan,"American, active late 20th century",1,,,,American,American,individual,
 50382,,"Lowe, Jacques",Jacques Lowe,Lowe,"American, born Germany, 1930 - 2001",1,1930,2001,1926 to 1950,American,American,individual,
 50383,,"Read, Chris",Chris Read,Read,,0,,,,,Other,individual,
+50384,,"Mostyn, Augusta Lady",Lady Augusta Mostyn,Mostyn,"Welsh, 1830 - 1912",1,1830,1912,1826 to 1850,Welsh,Other,individual,
 50385,,Utopica,Utopica,,,0,,,,,Other,corporate,
 50386,,"Carneiro, Dulce",Dulce Carneiro,Carneiro,"Brazilian, 1929 - 2018",1,1929,2018,1926 to 1950,Brazilian,Other,individual,Q112257864
 50387,,"Weiss, Rick",Rick Weiss,Weiss,"American, active late 20th century",1,,,,American,American,individual,
@@ -27650,3 +27651,5 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54580,,"Bonazza, Giovanni",Giovanni Bonazza,Bonazza,"Venetian, active Venice and Padua, 1654 - 1736",1,1654,1736,1651 to 1700,Italian,Italian,individual,
 54594,,"Toda, Tadashi",Tadashi Toda,Toda,,1,1936,2000,1926 to 1950,Japanese,Japanese,individual,
 54598,,"Moncornet, Veuve",Veuve Moncornet,Moncornet,"French, died 1691",1,,1691,,French,French,individual,
+54600,,Librairie de l'eau-forte,Librairie de l'eau-forte,,,1,,,,,Other,corporate,
+54601,,Imprimerie A. Cochet,Imprimerie A. Cochet,,,1,,,,,Other,corporate,

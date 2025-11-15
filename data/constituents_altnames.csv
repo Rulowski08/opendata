@@ -31422,6 +31422,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58710,50383,Read,"Read, Chris",,Preferred Name
 58711,98,Weisman,"Weisman, Marcia Simon",,Variant
 58712,98,Weisman,"Weisman, Frederick R. Mrs.",,Married Name
+58713,50384,Mostyn,"Mostyn, Augusta Lady",,Preferred Name
 58715,917,,,,Variant
 58716,50385,,Utopica,,Preferred Name
 58717,50289,Padien,"Padien, Bill",,Variant
@@ -34934,3 +34935,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64224,54594,Toda,"Toda, Tadashi",,Preferred Name
 64228,54598,Moncornet,"Moncornet, Veuve",,Preferred Name
 64229,54598,Van der Mael,,,Maiden Name
+64231,54600,,Librairie de l'eau-forte,,Preferred Name
+64232,54601,,Imprimerie A. Cochet,,Preferred Name
