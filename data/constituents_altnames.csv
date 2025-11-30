@@ -34617,6 +34617,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63466,53993,Shay,"Shay, Daniel",,Preferred Name
 63467,53994,Hoffman Gallery,"Hoffman Gallery, Nancy",,Preferred Name
 63468,53995,Cervera Galería,"Cervera Galería, Marta",,Preferred Name
+63472,53999,Rosado,"Rosado, Chemi",,Preferred Name
+63473,53999,Rosado Seijo,"Rosado-Seijo, Chemi",,Variant
 63476,54001,Roche-Rabell,"Roche-Rabell, Arnaldo",,Preferred Name
 63477,54002,Morales,"Morales, José",,Preferred Name
 63479,54004,,Los Carpinteros,,Preferred Name
@@ -34811,6 +34813,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63866,54312,Ford,"Ford, Leslie",,Preferred Name
 63869,54315,Niesman,"Niesman, Mark",,Preferred Name
 63870,53040,,,,Nickname/Pseudonym
+63876,54320,Ortega,"Ortega, Damián",,Preferred Name
 63878,54322,Underhill,"Underhill, Francis J",,Preferred Name
 63881,54324,Buesem,"Buesem, Jan Jansz. van",,Preferred Name
 63882,54325,Sieger,"Sieger, Victor",,Preferred Name
