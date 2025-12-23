@@ -13889,7 +13889,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 24700,500204781,"Owens, Bill",Bill Owens,Owens,"American, born 1938",1,1938,,1926 to 1950,American,American,individual,
 24702,500037068,"Pfahl, John",John Pfahl,Pfahl,"American, 1939 - 2020",1,1939,2020,1926 to 1950,American,American,individual,Q1701415
 24703,,"Porter, Eliot",Eliot Porter,Porter,"American, 1901 - 1990",1,1901,1990,1901 to 1925,American,American,individual,
-24704,500005072,"Rainer, Arnulf",Arnulf Rainer,Rainer,"Austrian, born 1929",1,1929,,1926 to 1950,Austrian,Austrian,individual,Q563515
+24704,500005072,"Rainer, Arnulf",Arnulf Rainer,Rainer,"Austrian, 1929 - 2025",1,1929,2025,1926 to 1950,Austrian,Austrian,individual,Q563515
 24707,500037083,"Rohde, Werner",Werner Rohde,Rohde,"German, 1906 - 1990",1,1906,1990,1901 to 1925,German,German,individual,Q2562370
 24708,500075011,"Schwarzkogler, Rudolf",Rudolf Schwarzkogler,Schwarzkogler,"Austrian, 1940 - 1969",1,1940,1969,1926 to 1950,Austrian,Austrian,individual,Q84761
 24709,500037103,"Siegel, Arthur",Arthur Siegel,Siegel,"American, 1913 - 1978",1,1913,1978,1901 to 1925,American,American,individual,Q24704131
@@ -27668,8 +27668,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54601,,Imprimerie A. Cochet,Imprimerie A. Cochet,,,1,,,,,Other,corporate,
 54620,,Resettlement Administration,Resettlement Administration,,,1,,,,,Other,corporate,
 54621,,"Smith, Erminnie Adelle Platt",Erminnie Adelle Platt Smith,Smith,1836 - 1886,0,1836,1886,1826 to 1850,,Other,individual,
-54623,,Peter Norton Family,Peter Norton Family,,,1,,,,,Other,corporate,
+54623,,Peter Norton Family,"Peter Norton Family, Santa Monica, California",,,1,,,,,Other,corporate,
 54629,,"La Paloma, Los Angeles","La Paloma, Los Angeles",,,1,,,,,Other,corporate,
 54631,,"Gallatin, Emily Lorillard (Morris)",Emily Lorillard (Morris) Gallatin,Gallatin,"American, 1873 - 1944",0,1873,1944,1851 to 1875,American,American,individual,
 54635,,"Gott, William",William Gott,Gott,"British, 1797 - 1863",0,1797,1863,1776 to 1800,British,British,individual,
 54636,,"Gott, John Reverend",Reverend John Gott,Gott,"British, 1830 - 1906",0,1830,1906,1826 to 1850,British,British,individual,
+54642,,"Eisen, David",David Eisen,Eisen,American,1,,,,American,American,individual,
+54643,,Roswell Book Binders,"Roswell Book Binders, Phoenix, Arizona",,,1,,,,American,American,corporate,
