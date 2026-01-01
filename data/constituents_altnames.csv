@@ -24095,7 +24095,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41024,34994,Rosenfeld,"Rosenfeld, Donald",,Preferred Name
 41025,34995,Swinden,"Swinden, Albert",,Preferred Name
 41026,33576,Lentz,"Lentz, Elizabeth",,Maiden Name
-63419,53952,Bergöö,,,Variant
 41027,34996,Kilgore,"Kilgore, Rupert",,Preferred Name
 41028,34997,Sample,"Sample, Paul",,Preferred Name
 41029,34998,Mesibov,"Mesibov, Hugh",,Preferred Name
@@ -24481,7 +24480,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41628,10577,Benedict,"Benedict, Lilli Elizabeth",,Maiden Name
 41630,35482,Flandrin,"Flandrin, Jean-Paul",,Preferred Name
 41632,35484,Huber,"Huber, Jakob Wilhelm",,Preferred Name
-63420,53952,Bergöö,,,Variant
 41633,35485,Kügelgen,"Kügelgen, Wilhelm von",,Preferred Name
 41635,35487,Smedley,"Smedley, William Thomas",,Preferred Name
 41636,35487,Smedley,"Smedley, W.T.",,Variant
@@ -27442,7 +27440,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 50845,44054,Sidibé,"Sidibé, Malick",,Preferred Name
 50866,44075,Booker,"Booker, Chakaia",,Preferred Name
 50878,44087,Tiffany & Co.,Tiffany & Co.,,Preferred Name
-50884,44093,Meyers,"Meyers, Linn",,Preferred Name
+50884,44093,meyers,"meyers, linn",,Preferred Name
 50899,11554,Le Corbusier,Le Corbusier,,Variant
 50991,44200,Popova,"Popova, Liubov",,Preferred Name
 51022,44231,Healy,"Healy, Claire",,Preferred Name
@@ -34581,6 +34579,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63416,53952,Bergöö Family,Bergöö Family,,Preferred Name
 63417,53953,Minutius,"Manutius, Aldus",,Preferred Name
 63418,53952,Bergöö,,,Variant
+63419,53952,Bergöö,,,Variant
+63420,53952,Bergöö,,,Variant
 63422,53955,Ammann,"Ammann, Ernst Dr.",,Preferred Name
 63423,53956,,Oskar Hermes,,Preferred Name
 63424,53956,,Kunstsalon Oskar Hermes,,Variant
