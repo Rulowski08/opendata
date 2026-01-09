@@ -634,6 +634,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 670,677,,Galerie Beyeler,,Preferred Name
 671,678,Bier,"Bier, Herbert N., Mr.",,Preferred Name
 672,679,Bimm,"Bimm, H. Lee, Mr.",,Preferred Name
+58966,6716,,Alex Katz Studio,,Variant
 673,680,Bonafous-Murat,"Bonafous-Murat, Arsene, Monsieur",,Preferred Name
 674,681,,"Botton Associates, De",,Preferred Name
 675,682,,Private Collection c/o Mr. F. Lorenceau,,Variant
@@ -1474,6 +1475,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1566,1573,,"Protetch Gallery, Max",,Preferred Name
 1567,1574,Fishman,"Fishman, Robert, Dr. and Mrs.",,Preferred Name
 1568,1575,,"Sourget, Patrick et Elisabeth",,Preferred Name
+62854,53508,,Tresart,,Preferred Name
 1569,1576,,"Nahum at the Leicester Galleries, Peter",,Preferred Name
 1570,1577,Drummond,"Drummond, Thomas, Dr.",,Preferred Name
 1571,1578,,"Dance, Inc., Robert",,Preferred Name
@@ -22463,7 +22465,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38969,33166,Beall,"Beall, Dennis",,Preferred Name
 38970,33167,Beardon,"Beardon, Edward Carpenter",,Preferred Name
 38971,33168,Beccard,"Beccard, Helen Louise",,Preferred Name
-55198,38400,Avery,"Avery, S. P.",,Variant
+56251,48588,,Alinari Freres,,Variant
 38972,33169,Beetz,"Beetz, Carl Hugo",,Preferred Name
 38973,33170,Bekker,"Bekker, David",,Preferred Name
 38974,33171,Belfiore,"Belfiore, Gerardo",,Preferred Name
@@ -22656,7 +22658,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39168,33365,Dike,"Dike, Philip Latimer",,Preferred Name
 39169,33366,Dill,"Dill, Mary M.",,Preferred Name
 39170,33367,Dillaye,"Dillaye, Blanche",,Preferred Name
-55199,38400,Avery,"Avery, Sam P.",,Variant
+56687,22222,,E. Coe Kerr,,Original Name
 39171,33368,Dimitroff,"Dimitroff, Stephen Pope",,Preferred Name
 39172,33369,Dixon,"Dixon, James Budd",,Preferred Name
 39173,33370,Dobkin,"Dobkin, Alexander",,Preferred Name
@@ -23238,7 +23240,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39775,33964,Schaefer,"Schaefer, Mathilde",,Preferred Name
 39776,33964,Schaefer Davis,"Schaefer Davis, Mathilde",,Variant
 39777,33965,Schaldach,"Schaldach, William J.",,Preferred Name
-56698,961,Bertoia,,,Variant
+56688,48847,,Hull Gallery,,Preferred Name
 39778,33966,Schardt,"Schardt, Bernard P.",,Preferred Name
 39779,33967,Scharf,"Scharf, Ralph Hammer",,Preferred Name
 39780,33967,Scharf,"Scharf, Ralph Hammer",,Variant
@@ -23334,7 +23336,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39874,34060,Tait,"Tait, Agnes Gabrielle",,Preferred Name
 39875,34060,Tait,"Tait, Agnes Gabrielle McNulty",,Variant
 39876,34061,Tam,"Tam, Reuben",,Preferred Name
-62854,53508,,Tresart,,Preferred Name
 39877,34062,Tamotzu,"Tamotzu, Chuzo",,Preferred Name
 39878,34063,Tanzer,"Tanzer, Julius",,Preferred Name
 39879,34064,Tart,"Tart, Carlie",,Preferred Name
@@ -28876,6 +28877,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55195,47830,Smithers,"Smithers, Francis Sydney",,Preferred Name
 55196,47831,,Phillips and Sampson,,Preferred Name
 55197,38400,Avery,"Avery, Samuel P.",,Variant
+55198,38400,Avery,"Avery, S. P.",,Variant
+55199,38400,Avery,"Avery, Sam P.",,Variant
 55202,47834,Carle,"Carle, Elizabeth Stevens",,Preferred Name
 55203,47835,Stevens,"Stevens, Sarah Smith Phillips",,Preferred Name
 55204,47836,Phillips,"Phillips, James Francis Armstrong",,Preferred Name
@@ -29759,7 +29762,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56248,48586,Altobelli,"Altobelli, Gioacchino",,Preferred Name
 56249,48587,Archer,"Archer, Frederick Scott",,Preferred Name
 56250,48588,,Alinari Family,,Preferred Name
-56251,48588,,Alinari Freres,,Variant
 56252,48589,Bankart,"Bankart, George",,Preferred Name
 56253,46920,Schoelkopf,"Schoelkopf, Andrew",,Variant
 56254,48590,Béchard,"Béchard, Henri",,Preferred Name
@@ -30054,13 +30056,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56682,879,,C. G. Sloan and Company,,Variant
 56685,629,,Angus Whyte Gallery,,Variant
 56686,22222,,"Coe Kerr Gallery, Inc.",,Variant
-56687,22222,,E. Coe Kerr,,Original Name
-56688,48847,,Hull Gallery,,Preferred Name
 56689,48848,,Sid Deutsch Gallery,,Preferred Name
 56690,825,,Tobey C. Moss Gallery,,Variant
 56691,46022,,Susan Conway Gallery,,Variant
 56692,42699,,Robert Brown Gallery,,Variant
 56697,30768,Schiavone,,,Variant
+56698,961,Bertoia,,,Variant
 56700,41681,Eberle,"Eberle, Mary Abastenia St. Leger",,Full Name
 56701,39688,Gaskell,"Gaskell, George Percival",,Full Name
 56702,48854,Fensterstock,"Fensterstock, Mr. and Mrs. Lee",,Preferred Name
@@ -30345,6 +30346,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57155,24472,Kent and 2nd baron Lucas,"Kent and 2nd baron Lucas, Henry de Grey, 1st duke of",,Variant
 57156,26934,de Grey of Wrest and 2nd baroness Lucas of Crudwell,"de Grey of Wrest and 2nd baroness Lucas of Crudwell, Annabel Yorke Hume-Campbell, countess",,Variant
 57157,49238,"Trefusis, baroness Clinton","Trefusis, baroness Clinton, Harriet Williamina Hepburn-Forbes",,Preferred Name
+57349,22370,Hepworth,"Hepworth, Barbara Dame",,Variant
 57158,49239,Hepburn-Stuart-Forbes-Trefusis,"Hepburn-Stuart-Forbes-Trefusis, Charles John Robert, 21st baron Clinton",,Preferred Name
 57159,49239,Trefusis,"Trefusis, Charles John Robert",,Variant
 57160,49240,Bowles-Lyon,"Bowles-Lyon, Fenella Hepburn-Stuart-Forbes-Trefusis",,Preferred Name
@@ -30441,7 +30443,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57346,49379,Hunter,"Hunter, Stuart Mrs.",,Preferred Name
 57347,49380,Bawden,"Bawden, Edward",,Preferred Name
 57348,22370,Hepworth,"Hepworth, Jocelyn Barbara",,Full Name
-57349,22370,Hepworth,"Hepworth, Barbara Dame",,Variant
 57351,18911,Blumenthal,"Blumenthal, Amelia",,Maiden Name
 57352,18911,Perls,"Perls, Dolly Blumenthal",,Nickname/Pseudonym
 57353,49080,Batcheller,,,Variant
@@ -31626,7 +31627,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58960,50547,,Galerie Rosenbach,,Preferred Name
 58961,50548,,Annely Juda Fine Art,,Preferred Name
 58962,3689,Cardon,"Cardon, Antoine",,Variant
-58966,6716,,Alex Katz Studio,,Variant
 58968,50553,Foster,"Foster, Edmund Benson",,Preferred Name
 58971,39003,Lahey,"Lahey, Richard Francis",,Variant
 58972,5769,,Master of the Saint John Statuettes,,Variant
