@@ -12078,6 +12078,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21029,21036,Nattes,"Nattes, John Claude",,Preferred Name
 21030,21037,Watkins,"Watkins, Margaret",,Preferred Name
 21033,21040,Dow,"Dow, Arthur Wesley",,Preferred Name
+21038,21045,Jensen,"Jensen, Bill",,Preferred Name
 21044,21051,Maulbertsch,"Maulbertsch, Franz Anton",,Preferred Name
 21046,21053,Humann,"Humann, Christian",,Preferred Name
 21053,21060,Hillman,"Hillman, Kay Merrill",,Preferred Name
@@ -34622,7 +34623,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63476,54001,Roche-Rabell,"Roche-Rabell, Arnaldo",,Preferred Name
 63477,54002,Morales,"Morales, José",,Preferred Name
 63479,54004,,Los Carpinteros,,Preferred Name
+63480,54005,Bedia Valdés,"Bedia Valdes, Jose",,Preferred Name
+63481,54005,Bedia,"Bedia, José",,Variant
 63482,54006,Ramos,"Ramos, Sandra",,Preferred Name
+63483,54007,Bryce,"Bryce, Fernando",,Preferred Name
 63487,54011,Scott,"Scott, Elizabeth Talford",,Preferred Name
 63488,54012,Timmons,"Timmons, Keith",,Preferred Name
 63489,53993,Shay,,,Variant
@@ -34814,6 +34818,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63866,54312,Ford,"Ford, Leslie",,Preferred Name
 63869,54315,Niesman,"Niesman, Mark",,Preferred Name
 63870,53040,,,,Nickname/Pseudonym
+63875,54319,Azcárate,"Azcárate, Emilia",,Preferred Name
 63876,54320,Ortega,"Ortega, Damián",,Preferred Name
 63878,54322,Underhill,"Underhill, Francis J",,Preferred Name
 63881,54324,Buesem,"Buesem, Jan Jansz. van",,Preferred Name
@@ -34897,6 +34902,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64054,54463,Serre,"Serre, Jean-Claude",,Preferred Name
 64058,54467,Jacques,"Jacques, Joseph Hugue Emile and Marie Lim Pee-Chin",,Preferred Name
 64059,54467,Pee-Chin,"Pee-Chin, Marie Lim",,Maiden Name
+64084,54489,Fernandez,"Fernández, Teresita",,Preferred Name
+64086,54491,Claire Fontaine,Claire Fontaine,,Preferred Name
+64087,54491,Carnevale,,,Variant
+64088,54491,Thornhill,,,Variant
 64091,7602,Guerra,"Guerra, Flora Garza",,Variant
 64093,54493,Bechtel,"Bechtel, Brendan",,Preferred Name
 64094,54494,Bram,"Bram, Jonathan and Susan",,Preferred Name
@@ -34960,6 +34969,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64252,54620,,Resettlement Administration,,Preferred Name
 64253,54621,Smith,"Smith, Erminnie Adelle Platt",,Preferred Name
 64255,54623,,Peter Norton Family,,Preferred Name
+64260,54628,Rogers,"Rogers, Joshua",,Preferred Name
 64261,54629,,"La Paloma, Los Angeles",,Preferred Name
 64263,43658,,Lorilland Company,,Variant
 64264,54631,Gallatin,"Gallatin, Emily Lorillard (Morris)",,Preferred Name
